@@ -11,3 +11,8 @@ public class Util {
 			return formatandoValores.format(valor);
 		}
 }
+
+
+/*Implementa um método estático para formatar valores monetários em uma string */
+/*no formato de moeda brasileira (R$), com separadores de milhares e duas casas decimais*/
+/*utilizando as classes DecimalFormat e NumberFormat da biblioteca Java.*/
