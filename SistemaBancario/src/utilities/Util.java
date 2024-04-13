@@ -13,6 +13,6 @@ public class Util {
 }
 
 
-/*Implementa um método estático para formatar valores monetários em uma string */
+/*Implementa um método para formatar valores monetários em uma string */
 /*no formato de moeda brasileira (R$), com separadores de milhares e duas casas decimais*/
 /*utilizando as classes DecimalFormat e NumberFormat da biblioteca Java.*/
