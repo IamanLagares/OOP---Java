@@ -24,7 +24,7 @@ public class Utils {
 	}
 	
 	public static void clearScreen() {
-		for (int i = 0; i < 50; i++) { // Ajuste o número de linhas conforme necessário
+		for (int i = 0; i < 50; i++) { 
 			System.out.println();
 		}
 	}
